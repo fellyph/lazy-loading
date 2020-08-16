@@ -4,7 +4,24 @@
     text-align: center;
 }
 
+.title {
+    margin-bottom: 1em;
+    padding-bottom: 0.2em;
+    border-bottom: 1px solid #5c5ceb;
+}
+
 .container {
     width: 1024px;
     margin: 0 auto;
+}
+
+.wordcamp {
+    width: 100%;
+    margin-bottom: 2.5em;
+    text-align: center;
+}
+
+.wordcamp img {
+    max-width: 100%;
+    height: auto;
 }
