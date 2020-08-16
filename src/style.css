@@ -1,0 +1,10 @@
+.headline,
+.title {
+    font-family: 'Baloo Tamma 2', cursive;
+    text-align: center;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
